@@ -2,7 +2,7 @@
   {
     "props": {
       "mode": "datetime",
-      "value": "2021-01-15T04:15:00.000Z",
+      "modelValue": "2021-01-15T04:15:00.000Z",
       "modelConfig": {
         "type": "string",
         "mask": "iso"
@@ -20,7 +20,7 @@
   {
     "props": {
       "mode": "datetime",
-      "value": "2021-01-15T04:15:00.123Z",
+      "modelValue": "2021-01-15T04:15:00.123Z",
       "modelConfig": {
         "type": "string",
         "mask": "YYYY-MM-DDTHH:mm:ss.SSSZ"
@@ -38,7 +38,7 @@
   {
     "props": {
       "mode": "datetime",
-      "value": "2021-01-15T04:15:00.000Z",
+      "modelValue": "2021-01-15T04:15:00.000Z",
       "modelConfig": {
         "type": "string",
         "mask": "YYYY-MM-DDTHH:mm:ss.SSSZ"
@@ -56,7 +56,7 @@
   {
     "props": {
       "mode": "datetime",
-      "value": "2021-01-15T04:15:00Z",
+      "modelValue": "2021-01-15T04:15:00Z",
       "modelConfig": {
         "type": "string",
         "mask": "iso"
@@ -74,7 +74,7 @@
   {
     "props": {
       "mode": "datetime",
-      "value": "2021-01-15T04:15:00.123Z",
+      "modelValue": "2021-01-15T04:15:00.123Z",
       "modelConfig": {
         "type": "string",
         "mask": "YYYY-MM-DDTHH:mm:ss.SSSZ"
@@ -92,7 +92,7 @@
   {
     "props": {
       "mode": "datetime",
-      "value": "2021-01-15T04:15:00Z",
+      "modelValue": "2021-01-15T04:15:00Z",
       "modelConfig": {
         "type": "string",
         "mask": "YYYY-MM-DDTHH:mm:ssZ"
@@ -110,8 +110,8 @@
   {
     "props": {
       "mode": "date",
-      "value": null,
-      "fromPage": { "month": 1, "year": 2021},
+      "modelValue": null,
+      "initialPage": { "month": 1, "year": 2021 },
       "modelConfig": {
         "type": "string",
         "mask": "YYYY-MM-DDTHH:mm:ssZ",
